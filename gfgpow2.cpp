@@ -14,9 +14,9 @@ int main()
                 num=num/2;
             if(num==1)
                 cout<<"YES"<<endl;
+        }
             if(num==0 || num!=1)
             cout<<"NO"<<endl;
-        }
     }
     return 0;
 }
